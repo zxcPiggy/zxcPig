@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: url(/img/fon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: cover;
+  color: #ffffff;
+}
+header {
+  background-color: #000000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav s {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+nav a {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+nav a {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+nav f {
+  color: rgb(9, 255, 0);
+  text-decoration: none;
+}
+nav a {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+nav a {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+
+nav s:hover {
+  text-decoration: underline;
+  color: #16f702;
+}
+nav d:hover {
+  text-decoration: underline;
+  color: #16f702;
+}
+nav f:hover {
+  text-decoration: underline;
+  color: #19ece2;
+}
+nav z:hover {
+  text-decoration: underline;
+  color: #16f702;
+}
+nav w:hover {
+  text-decoration: underline;
+  color: #16f702;
+}
+nav e:hover {
+  text-decoration: underline;
+  color: #16f702;
+}
+main {
+  max-width: 1980px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.index3.html 
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: url(/img/fon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
